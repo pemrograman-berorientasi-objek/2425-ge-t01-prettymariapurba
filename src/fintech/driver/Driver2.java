@@ -1,14 +1,15 @@
 package fintech.driver;
 
 /**
- * @author NIM Nama
- * @author NIM Nama
+ * @author 12S23042 Pretty Maria Purba
+ * @author 12S23049 Clarissa Manurung
  */
 public class Driver2 {
+    
 
     public static void main(String[] _args) {
 
-        // codes
+        
 
     }
 
